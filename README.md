@@ -1,4 +1,13 @@
 # Applied-Data-Analysis-Project
+The repository includes:
+raw data
+processed data
+myproj.Rmd file which is R markdown file
+myproj.html file which is the html output
+
+
+
+
 
 2018-19_nba_player-statistics.csv :
 player_name : Player Name
